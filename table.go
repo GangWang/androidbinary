@@ -2,6 +2,7 @@ package androidbinary
 
 import (
 	"encoding/binary"
+	"errors"
 	"fmt"
 	"io"
 	"os"
